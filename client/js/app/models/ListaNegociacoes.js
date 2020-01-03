@@ -1,10 +1,7 @@
 class ListaNegociacoes {
     
-    constructor() {
-        
-        this._negociacoes = [];
-     
-      
+    constructor() {        
+        this._negociacoes = [];      
     }
     
     adiciona(negociacao) {        
